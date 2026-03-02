@@ -45,6 +45,7 @@ pyinstaller --noconfirm --onedir --windowed --icon "logo.ico" --add-data "logo.p
     --exclude-module matplotlib `
     --exclude-module numpy `
     --exclude-module pandas `
-    moodle_downloader.py
+    downloader.py
 
 echo "Build complete! Check the 'dist' folder."
+
