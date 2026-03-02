@@ -1,4 +1,4 @@
-# NSBM-dl: File Downloader for Nlearn 
+# NSBM-dl
 
 A modern, fast, and fully automated utility to scrape, organize, and download all your course materials from the NSBM Moodle portal directly to your computer.
 
