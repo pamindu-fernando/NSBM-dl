@@ -10,7 +10,7 @@ Built with Python and a fluid PyQt6 interface.
 
 ## Features
 - **One-Click Downloads**: Logs into your Moodle account and pulls your enrolled courses instantly.
-- **Smart Organization**: Automatically sorts your downloads into categorized folders (e.g., `Downloads/NSBM-Moodle/Y2S1`).
+- **Smart Organization**: Automatically sorts your downloads into categorized folders (e.g., `Downloads/Y2S1`).
 - **Modern UI**: Clean, frameless interface with Dark and Light themes.
 - **Selective Syncing**: Check or uncheck specific modules or overarching semesters using the collapsible tree widget.
 
@@ -30,7 +30,7 @@ cd NSBM-dl
 pip install -r requirements.txt
 ```
 
-*(Note: Ensure your `requirements.txt` includes `requests`, `beautifulsoup4`, `lxml`, and `PyQt6`)*
+*(Note: Ensure your `requirements.txt` includes `requests`, `beautifulsoup4`, `pyinstaller`, `lxml`, and `PyQt6`)*
 
 ### 2. Install PyInstaller
 To package the app into a standalone executable, you'll need PyInstaller:
@@ -50,7 +50,7 @@ Open a PowerShell window in the project directory and run:
 ```
 
 ### 4. Locate Your Executable
-Once the script finishes, navigating to the newly created `dist/NSBM-dl` directory will reveal your fully bundled `moodle_downloader.exe`. You can move this folder anywhere or create a shortcut to it on your Desktop.
+Once the script finishes, navigating to the newly created `dist/NSBM-dl` directory will reveal your fully bundled `NSBM-dl.exe`. You can move this folder anywhere or create a shortcut to it on your Desktop.
 
 ---
 
