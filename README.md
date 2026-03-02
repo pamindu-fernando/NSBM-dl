@@ -25,8 +25,8 @@ Make sure you have **Python 3.11+** installed on your system.
 
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/pamindu-fernando/nsbm-moodle-downloader.git
-cd nsbm-moodle-downloader
+git clone https://github.com/pamindu-fernando/NSBM-dl.git
+cd NSBM-dl
 pip install -r requirements.txt
 ```
 
