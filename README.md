@@ -4,6 +4,8 @@ A modern, fast, and fully automated utility to scrape, organize, and download al
 
 Built with Python and a fluid PyQt6 interface.
 
+![Image](https://github.com/user-attachments/assets/7db4ee31-8325-41e5-9318-1f957bed8729)
+
 ---
 
 ## Features
