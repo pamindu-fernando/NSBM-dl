@@ -2,7 +2,7 @@
 
 A modern, fast, and fully automated utility to scrape, organize, and download all your course materials from the NSBM Moodle portal directly to your computer.
 
-Built with Python and a fluid PyQt6 interface.
+Built with the Python and a fluid PyQt6 interface.
 
 ![Image](https://github.com/user-attachments/assets/7db4ee31-8325-41e5-9318-1f957bed8729)
 
