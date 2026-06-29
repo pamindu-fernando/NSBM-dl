@@ -11,7 +11,7 @@ Built with Python and a fluid PyQt6 interface.
 ## Features
 - **One-Click Downloads**: Logs into your Moodle account and pulls your enrolled courses instantly.
 - **Smart Organization**: Automatically sorts your downloads into categorized folders (e.g., `Downloads/Y2S1`).
-- **Modern UI**: Clean, frameless interface with Dark and Light themes.
+- **Modern UI**: Clean, frameless interface with Dark and Light themes very user firendly.
 - **Selective Syncing**: Check or uncheck specific modules or overarching semesters using the collapsible tree widget.
 
 ---
