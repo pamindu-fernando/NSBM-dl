@@ -39,7 +39,7 @@ pip install pyinstaller
 ```
 
 ### 3. Run the Build Script
-Because PyQt6 is massive and includes dozens of unused rendering libraries (like WebEngines and 3D Rendering), a standard PyInstaller build will result in a bloated file >150MB.
+Because PyQt6 is massive and includes dozens of unused rendering libraries (like WebEngines and 3D Rendering), a standard PyInstaller build will result in a bloated file > 150MB.
 
 We have included a customized build script (`build_small.ps1`) that aggressively strips away unused PyQt6 modules, drastically reducing the file size.
 
